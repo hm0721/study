@@ -1,0 +1,6 @@
+git init
+git git pull "ad"
+git add .
+git commit -m "aa"
+git push https://github.com/hm0721/wheelbug.git // main
+git remote and origin https://github.com/hm0721/wheelbug.git
